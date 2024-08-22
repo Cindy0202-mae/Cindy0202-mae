@@ -1,2 +1,2 @@
 # Hi, I'm Cindy Mae Ngoho👋
-### Aspiring full-stack web developer 👩‍💻
+### Aspiring Full-stack web developer 👩‍💻
