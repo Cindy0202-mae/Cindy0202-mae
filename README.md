@@ -1,4 +1,6 @@
 # Hi, I'm Cindy Mae Ngoho👋
 ### Aspiring Full-stack web developer 👩‍💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cindy0202-mae)](https://github.com/Cindy0202-mae/github-readme-stats)
+<img alt="my stats" aligh="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cindy0202-mae&show_icons=true&theme=radical"/>
+
+<img alt="top langs" aligh="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cindy0202-mae&layout=compact"/> 
