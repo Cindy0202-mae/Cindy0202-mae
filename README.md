@@ -1,4 +1,4 @@
-# Hi, I'm Cindy Mae Ngoho👋
+# Hi, I'm Cindy👋
 ### Aspiring Full-stack web developer 👩‍💻
 
 <img alt="my stats" aligh="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cindy0202-mae&show_icons=true&theme=radical"/>
