@@ -11,8 +11,6 @@ I'm a software developer with a background in education and computer science. Af
 I believe the same in tech — everyone brings something valuable,  
 And great things happen when we build together.
 
-## 🏔️ The Fellowship of My Skills
-
-<img alt="my stats" aligh="left" width="47%" src="https://github-readme-stats-seven-delta-90.vercel.app/api?username=Cindy0202-mae&show_icons=true&theme=dark"/>
+<!-- <img alt="my stats" aligh="left" width="47%" src="https://github-readme-stats-seven-delta-90.vercel.app/api?username=Cindy0202-mae&show_icons=true&theme=dark"/> -->
 
 <!-- <img alt="top langs" aligh="left" width="47%" src = "https://github-readme-stats-seven-delta-90.vercel.app/api/top-langs/?username=Cindy0202-mae&layout=compact"/>  -->
